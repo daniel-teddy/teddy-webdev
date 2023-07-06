@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @teddy-webdev
+- 👋 Hi, I’m @teddy
 - 👀 I’m interested in web development and mobile development 
 - 🌱 I’m currently learning JavaScript and python 
 - 🌍 I'm currently based in Turkey
